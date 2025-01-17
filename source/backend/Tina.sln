@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tina.API", "Tina.API\Tina.API.csproj", "{76F6A2EB-19D2-4C0E-A3F9-29D587A30E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tina.Application", "Tina.Application\Tina.Application.csproj", "{B0E19AC2-F990-46D6-B3D6-4AAEA840A4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tina.Domain", "Tina.Domain\Tina.Domain.csproj", "{63770324-9F87-40E3-BA78-2EAD880BCA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tina.Infrastructure", "Tina.Infrastructure\Tina.Infrastructure.csproj", "{4D4A5475-B72B-48A0-B7FA-7991B19026E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76F6A2EB-19D2-4C0E-A3F9-29D587A30E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F6A2EB-19D2-4C0E-A3F9-29D587A30E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F6A2EB-19D2-4C0E-A3F9-29D587A30E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F6A2EB-19D2-4C0E-A3F9-29D587A30E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E19AC2-F990-46D6-B3D6-4AAEA840A4BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E19AC2-F990-46D6-B3D6-4AAEA840A4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E19AC2-F990-46D6-B3D6-4AAEA840A4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E19AC2-F990-46D6-B3D6-4AAEA840A4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63770324-9F87-40E3-BA78-2EAD880BCA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63770324-9F87-40E3-BA78-2EAD880BCA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63770324-9F87-40E3-BA78-2EAD880BCA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63770324-9F87-40E3-BA78-2EAD880BCA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D4A5475-B72B-48A0-B7FA-7991B19026E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4A5475-B72B-48A0-B7FA-7991B19026E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4A5475-B72B-48A0-B7FA-7991B19026E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4A5475-B72B-48A0-B7FA-7991B19026E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
